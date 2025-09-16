@@ -86,9 +86,11 @@ The params section
 
 ### The "checkbox" type
 
-To se the default value to "false" (unchecked), use
+To set the default value to "false" (unchecked), use
 
-    "default_value": ""
+```json
+"default_value": ""
+```
 
 because the other false values, like "false" or "0" strangely evaluate to true.
 Removing the "default_value" attribute from the description however also makes

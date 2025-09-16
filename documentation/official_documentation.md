@@ -6,7 +6,7 @@ and the sources at:
 
     https://github.com/mcolom/ipolDevel/tree/devel/doc/ddl
 
-The forum adress is:
+The forum address is:
 
-    https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/ipol-demo-editing
+    https://groups.google.com/forum/#!forum/ipol-demo-editing
 

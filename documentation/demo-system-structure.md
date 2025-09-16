@@ -17,7 +17,7 @@ The ${demoextras} folder is:
 
     /home/ipol/ipolDevel/shared_folder/demoExtras/333330010008
 
-and its content is the unpacked demoxetra archive upploaded in the control
+and its content is the unpacked demoxetra archive uploaded in the control
 panel, i.e.:
 
     run.py
@@ -40,8 +40,8 @@ and it contains
     unpacked
 
 That is, the downloaded input "input_0", the parameters, stdout and stderr.
-This is the place where the "algo_infot.txt" has to be created (in ${bin} for
-example, I won't work). The rest has been created by my code.
+This is the place where the "algo_info.txt" has to be created (in ${bin} for
+example). The rest has been created by my code.
 
 Variables accessible from the ddl:
 
@@ -72,7 +72,7 @@ However, the virtualenv is not created yet and the $virtualenv variable is not
 set.
 
 If the "execution successful" appears but the "run" animated icon is still
-thre, it means that there is an issue somewhere when interpreting the ddl.
+there, it means that there is an issue somewhere when interpreting the ddl.
 Start by verifying your algo_info.txt if you have one...
 
 --> Email to IPOL team...(?) DDL errors should make the demo fail and give an

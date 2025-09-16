@@ -6,7 +6,7 @@ its content after warning that the demo failed.
 However your script must exit successfully (exit code 0) for this message to be
 displayed, so you're in charge of catching the errors.
 
-This allows to catch common situation in wich your demo will fail and give the
+This allows to catch common situation in which your demo will fail and give the
 user appropriate feedback.
 
 If you have
